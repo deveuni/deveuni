@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=KIM%20JI%20EUN&fontSize=90)
 
-<h2><b>🛠 Tech Stack 🛠</b></h2>
+<h2><b>🛠 Tech Stack</b></h2>
 <p align="center">
   
   ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
@@ -28,7 +28,7 @@ Here are some ideas to get you started:
   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
   
   
- <h2><b>📫 Contacts 📫</b></h2> 
+ <h2><b>📫 Contacts</b></h2> 
  
  ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
