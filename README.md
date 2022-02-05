@@ -27,9 +27,18 @@ Here are some ideas to get you started:
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
   
+ 
+ <h2><b>🌱 Stats</b></h2>
+ 
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=deveuni&&show_icons=true&theme=dark)
+  
   
  <h2><b>📫 Contacts</b></h2> 
  
  ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+ 
+ 
+
+ 
 
 
