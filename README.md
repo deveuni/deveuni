@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=KIM%20JI%20EUN&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=KIM%20JI%20EUN&fontSize=90)
 
 <h2><b>🛠 Tech Stack</b></h2>
 <p align="center">
@@ -30,7 +30,7 @@ Here are some ideas to get you started:
  
  <h2><b>🌱 Stats</b></h2>
  
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=deveuni&&show_icons=true&theme=dark)
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=deveuni&&show_icons=true&theme=vue)
   
   
  <h2><b>📫 Contacts</b></h2> 
